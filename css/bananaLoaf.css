@@ -1,0 +1,17 @@
+.raccess li {
+	float: right;
+	position: relative;
+	padding: 0 20px 0 0;
+}
+
+.raccess a {
+	color: #777;
+}
+
+.menu-selected a {
+	color: #05A9C5;
+}
+
+.menu-unselected a {
+	color: #777;
+}
