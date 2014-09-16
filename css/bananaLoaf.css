@@ -35,3 +35,14 @@
 	padding-left: 30px;
 	padding-right: 30px;
 }
+
+#intro-text {
+	float: left;
+	width: 50.0%;
+}
+
+#main-add {
+	float: left;
+	margin-left: 3.06%;
+	width: 31.28%;
+}
