@@ -36,6 +36,11 @@
 	padding-right: 30px;
 }
 
+.button-bar {
+	padding-top: 10px;
+	padding-bottom: 10px;	
+}
+
 #intro-text {
 	float: left;
 	width: 50.0%;
