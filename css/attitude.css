@@ -67,8 +67,8 @@ embed, iframe, object {
 ----------------------------------------------- */
 body, input, textarea {
 	color: #777;
-	font: 13px 'PT Sans', sans-serif;
-	line-height: 20px;
+	font: 16px 'PT Sans', sans-serif;
+	line-height: 22px;
 	word-wrap: break-word;
 }
 body {
@@ -551,8 +551,8 @@ a.more-link:hover {
 	color: #05a9c5;
 }
 #site-description {
-	font: 13px 'PT Sans', sans-serif;
-	line-height: 20px;
+	font: 16px 'PT Sans', sans-serif;
+	line-height: 22px;
 	color: #777;
 }
 .hgroup-right {
@@ -670,7 +670,7 @@ a.more-link:hover {
 #access li {
 	float: left;
 	position: relative;
-	padding: 0 20px 0 0;
+	padding: 0 26px 0 0;
 }
 li.default-menu {
 	display: none;
@@ -678,7 +678,7 @@ li.default-menu {
 #access a {
 	display: block;
 	float: left;
-	font-size: 14px;
+	font-size: 16px;
 	text-transform: uppercase;
 	padding: 16px 0 0;
 	height: 39px;
@@ -755,8 +755,8 @@ li.default-menu {
 #access ul li.current-menu-ancestor ul li a,
 #access ul li.current_page_item ul li a {
 	float: none;
-	line-height: 21px;
-	font-size: 13px;
+	line-height: 22px;
+	font-size: 16px;
 	font-weight: normal;
 	height: 100%;
 	padding: 6px 10px;
@@ -790,8 +790,8 @@ li.default-menu {
 	float: left;
 }
 .slogan-wrap .slogan span {
-	font: 13px 'PT Sans', sans-serif;
-	line-height: 20px;
+	font: 16px 'PT Sans', sans-serif;
+	line-height: 22px;
 	display: block;
 	padding-top: 5px;
 }
@@ -1411,7 +1411,7 @@ li.default-menu {
 	font-size: 0.714285714rem;
 }
 a.comment-reply-link {
-	font-size: 13px;
+	font-size: 16px;
 	font-size: 0.928571429rem;
 	line-height: 1.846153846;
 	color: #686868;
