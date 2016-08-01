@@ -54,7 +54,10 @@ a {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
-
+.col-md-3 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 .address {
 	color: #F8F8FF;
 	font-size: 25%;
