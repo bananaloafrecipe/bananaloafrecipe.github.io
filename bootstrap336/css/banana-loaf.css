@@ -65,3 +65,7 @@ a {
 .bottom-buffer {
 	margin-bottom:2%;
 }
+.col-sm-4 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
