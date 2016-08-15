@@ -3,6 +3,7 @@
 <url><loc>http://www.bananaloafrecipe.co.uk/</loc><changefreq>weekly</changefreq><priority>1.00</priority></url>
 <url><loc>http://www.bananaloafrecipe.co.uk/about.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
 <url><loc>http://www.bananaloafrecipe.co.uk/index.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.bananaloafrecipe.co.uk/recipes.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
 <url><loc>http://www.bananaloafrecipe.co.uk/articles.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
 <url><loc>http://www.bananaloafrecipe.co.uk/printableRecipe.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
 <url><loc>http://www.bananaloafrecipe.co.uk/rubbingInMethod.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
@@ -28,4 +29,5 @@
 <url><loc>http://www.bananaloafrecipe.co.uk/isBananaLoafCooked5Steps.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
 <url><loc>http://www.bananaloafrecipe.co.uk/hotCrossEasterCake.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
 <url><loc>http://www.bananaloafrecipe.co.uk/bananaRhubarbAndGingerLoafCakeRecipe.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.bananaloafrecipe.co.uk/bananaLoafRecipe.html</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
 </urlset>
